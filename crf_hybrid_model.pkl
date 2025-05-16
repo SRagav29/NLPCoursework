@@ -1,2 +1,3 @@
 import joblib
 joblib.dump(crf_hybrid, "crf_hybrid_model.pkl")
+joblib.dump(glove, "glove_vectors.pkl")
