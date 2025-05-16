@@ -1,0 +1,2 @@
+import joblib
+joblib.dump(crf_hybrid, "crf_hybrid_model.pkl")
